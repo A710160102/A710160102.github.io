@@ -125,14 +125,15 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 
   <!-- Images of Me -->
   <div class="w3-row-padding w3-padding-16" id="about">
-    <div class="w3-container w3-padding-large" style="margin-bottom:32px">
+    <div class="w3-col m6">
       <img src="IMG_6985.jpg" alt="image" style="width:100%">
     </div>
   </div>
 
-    <h4><b><center>About Me</center></b></h4>
+  <div class="w3-container w3-padding-large" style="margin-bottom:32px">
+    <h4><b>About Me</b></h4>
     <p>Hallo teman-teman! Perkenalkan nama saya Adhityas Nugraheni Basqoro biasa dipanggil Tyas. Saya membuat template seperti ini agar kalian dapat menambah ilmu tentang contoh animasi 2D dan 3D. Semoga bermanfaat untuk kalian yang membaca.</p>
-    <hr></hr>
+    <hr>
 	</div>
   
   <!-- Contact Section -->
