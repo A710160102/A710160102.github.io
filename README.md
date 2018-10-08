@@ -126,10 +126,10 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
   <!-- Images of Me -->
   <div class="w3-row-padding w3-padding-16" id="about">
     <div class="w3-col m6">
-      <img src="IMG_6985.jpg" style="width:100%">
+      <img src="IMG_6985.jpg" alt="image" style="width:100%">
     </div>
     <div class="w3-col m6">
-      <img src="IMG_7011.jpg" style="width:100%">
+      <img src="IMG_7011.jpg" alt="image" style="width:100%">
     </div>
   </div>
 
