@@ -123,7 +123,6 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
     </div>
   </div>
 
-  <!-- Images of Me -->
     <h4><b><center>About Me</center></b></h4>
     <p>Hallo teman-teman! Perkenalkan nama saya Adhityas Nugraheni Basqoro biasa dipanggil Tyas. Saya membuat template seperti ini agar kalian dapat menambah ilmu tentang contoh animasi 2D dan 3D. Semoga bermanfaat untuk kalian yang membaca.</p>
     <hr>
