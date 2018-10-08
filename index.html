@@ -124,14 +124,16 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
   </div>
 
   <!-- Images of Me -->
-  <div class="w3-row-padding w3-padding-16" id="about">
+ <div class="w3-row-padding w3-padding-16" id="about">
     <div class="w3-col m6">
-      <img src="IMG_6985.jpg" alt="Me" style="width:100%">
-    </div>
+      <img src="IMG_6985.jpg" alt="image" style="width:100%" class="w3-hover-opacity">
+      <div class="w3-container w3-white"></div>
+	</div>
     <div class="w3-col m6">
-      <img src="IMG_7011.jpg" alt="Me" style="width:100%">
-    </div>
-  </div>
+      <img src="IMG_7011.jpg" alt="image" style="width:100%" class="w3-hover-opacity">
+      <div class="w3-container w3-white"></div>
+	</div>
+</div>
 
   <div class="w3-container w3-padding-large" style="margin-bottom:32px">
     <h4><b>About Me</b></h4>
