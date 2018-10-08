@@ -126,7 +126,10 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
   <!-- Images of Me -->
   <div class="w3-row-padding w3-padding-16" id="about">
     <div class="w3-col m6">
-      <img src="IMG_6985.jpg" alt="image" style="width:100%">
+      <img src="IMG_6985.jpg" alt="Me" style="width:100%">
+    </div>
+    <div class="w3-col m6">
+      <img src="IMG_7011.jpg" alt="Me" style="width:100%">
     </div>
   </div>
 
@@ -134,7 +137,6 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
     <h4><b>About Me</b></h4>
     <p>Hallo teman-teman! Perkenalkan nama saya Adhityas Nugraheni Basqoro biasa dipanggil Tyas. Saya membuat template seperti ini agar kalian dapat menambah ilmu tentang contoh animasi 2D dan 3D. Semoga bermanfaat untuk kalian yang membaca.</p>
     <hr>
-	</div>
   
   <!-- Contact Section -->
   <div class="w3-container w3-padding-large w3-grey">
