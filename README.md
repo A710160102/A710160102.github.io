@@ -125,8 +125,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 
   <!-- Images of Me -->
   <div class="w3-third w3-container">
-      <img src="IMG_6985.jpg" alt="image" style="width:100%" class="w3-hover-opacity">
-      <div class="w3-container w3-white">
+      <img src="IMG_6985.jpg" alt="image" style="width:100%" class="w3-container w3-padding-large">
+      <div class="w3-container w3-padding-large">
     </div>
   </div>
 
