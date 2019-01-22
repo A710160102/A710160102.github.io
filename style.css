@@ -1,57 +1,59 @@
-.wrap{
-	background: orange;
-	width: 900px;
-	margin: 10px auto;
+.gameArea {
+  width: 300px;
+  height: 425px;
+  text-align:left;
+  margin: 0 auto;
+  display: block;
+  position: relative;
+  border: 1px dashed #ccc;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  background-color: #FFFBDF;
+  background-image: radial-gradient(closest-side, transparent 98%, rgba(0, 0, 0, 0.1) 99%), radial-gradient(closest-side, transparent 98%, rgba(0, 0, 0, 0.1) 99%);
+  -webkit-background-size: 60px 60px;
+  -moz-background-size: 60px 60px;
+  background-size: 60px 60px;
+  background-position: 0 0, 30px 30px;
 }
- 
-/*bagian header*/
-.wrap .header{
-	background: green;
-	/*height: 50px;*/
-	padding: 2px 10px;
+.gameArea h2 {
+  padding: 0;
+  font-size: 14px;
+  margin: 20px 10px;
+  font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
 }
- 
-/*akhir header*/
- 
-/*bagian menu*/
-.wrap .menu{
-	background: yellow;
+.gameArea .cocroach,
+.gameArea .cocroach2,
+.gameArea .cocroach3 {
+  width: 100px;
+  height: 100px;
+  display: block;
+  position: absolute;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
- 
-.wrap .menu ul{
-	padding: 0;
-	margin: 0;
-	background: yellow;
-	overflow: hidden;
+.gameArea .cocroach .insect,
+.gameArea .cocroach2 .insect,
+.gameArea .cocroach3 .insect {
+  display: block;
+  margin: auto;
+  width: 60px;
+  height: 75px;
 }
- 
-.wrap .menu ul li{
-	float: left;
-	list-style-type: none;
-	padding: 10px;
+.gameArea .cocroach .insect.alive,
+.gameArea .cocroach2 .insect.alive,
+.gameArea .cocroach3 .insect.alive {
+ background-image: url(alive.png);
 }
-/*akhir menu*/
- 
-.clear{
-	clear: both;
-}
- 
-.tugas proyek ti{
-	height: 450px;
-}
-/*bagian ProyekTI*/
-.wrap .tugas proyek ti .Soal{
-	background: orange;
-	float: left;	
-	width: 25%;
-	height: 100%;
-}
-
-/*akhir soal*/
- 
-.wrap .proyek ti .Jawaban{
-	background: red;
-	float: left;
-	height: 100%;
-	width: 75%;	
+.gameArea .cocroach .insect.dead,
+.gameArea .cocroach2 .insect.dead,
+.gameArea .cocroach3 .insect.dead {
+background-image: url(dead.png);
 }
